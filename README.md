@@ -1,4 +1,4 @@
-## Hello, Click Here to View( https://ramya-brs.github.io/Single-Linked-List/ )
+##Click Here https://ramya-brs.github.io/Single-Linked-List/ 
 
 
 ## Single Linked List
